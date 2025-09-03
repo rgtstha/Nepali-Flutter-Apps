@@ -18,6 +18,8 @@ Whether you're a **developer looking for inspiration** or just curious about wha
 |------|----------|-------------|----------------|
 | <img src="images/finance-and-banking/khalti.webp" width="60"/> | **Khalti** | Digital wallet for online payments, recharges, and money transfers | [Play Store](https://play.google.com/store/apps/details?id=com.khalti) <br> [App Store](https://apps.apple.com/us/app/khalti-digital-wallet-nepal/id1263400741) |
 | <img src="images/finance-and-banking/nimb.webp" width="60"/> | **NIMB Smart Banking** | Mobile banking app for Nepal Investment Mega Bank customers | [Play Store](https://play.google.com/store/apps/details?id=com.f1soft.megafonebank.activities.starter) <br> [App Store](https://apps.apple.com/us/app/nimb-smart/id901814671) |
+| <img src="images/finance-and-banking/money-mitra.webp" width="60"/> | **Money Mitra** | All-in-one solution for personal finance management, stock analysis, financial planning, and soft skills courses. | [Play Store](https://play.google.com/store/apps/details?id=com.ideapreneurnepal.moneymitra) <br> [App Store](https://apps.apple.com/ne/app/money-mitra/id6446030380) |
+| <img src="images/finance-and-banking/sharehub.webp" width="60"/> | **Sharehub** | NEPSE portfolio app offering real-time market data, alerts, IPO tracking | [Play Store](https://play.google.com/store/apps/details?id=com.softshalanepal.sharehub) <br> [App Store](https://apps.apple.com/us/app/share-hub-nepse-information/id1567874669) |
 
 
 ##  Government and Public Services
@@ -25,6 +27,8 @@ Whether you're a **developer looking for inspiration** or just curious about wha
 | Logo | App Name | Description | Download Links |
 |------|----------|-------------|----------------|
 | <img src="images/government-and-public-services/nagarik-app.webp" width="60"/> | **Nagarik App** | Unified government services (e-Chalan, PAN, police clearance, etc.) | [Play Store](https://play.google.com/store/apps/details?id=com.yajtech.nagarikapp) <br> [App Store](https://apps.apple.com/us/app/nagarik-app/id1493013430) |
+| <img src="images/government-and-public-services/nea.webp" width="60"/> | **NEA Official** | Customer app for managing their meters and billings. | [Play Store](https://play.google.com/store/apps/details?id=com.nepalelectricityauthority.nea) <br> [App Store](https://apps.apple.com/np/app/nea-official/id1639332704) |
+| <img src="images/government-and-public-services/nepal-police.webp" width="60"/> | **Nepal Police** | Public safety tools, emergency access, incident reporting, and personnel services for secure, responsive, and community-driven policing. | [Play Store](https://play.google.com/store/apps/details?id=com.pathway.nepalpolice) <br> [App Store](https://apps.apple.com/us/app/nepal-police/id1440979497) |
 
 
 ## Productivity
