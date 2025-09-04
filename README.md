@@ -11,6 +11,7 @@ Whether you're a **developer looking for inspiration** or just curious about wha
 |------|----------|-------------|----------------|
 | <img src="images/education/nepal-quest.webp" width="60"/> | **Nepal Quest** | Comprehensive information on Nepal’s constitution, provinces, districts, municipalities, and general facts along with engaging map-based games. | [Play Store](https://play.google.com/store/apps/details?id=np.com.shrestharanjit.nepalquest) |
 | <img src="images/education/mero-school.webp" width="60"/> | **Mero School** | Online learning platform | [Play Store](https://play.google.com/store/apps/details?id=school.mero.lms) <br> [App Store](https://apps.apple.com/np/app/mero-school/id1581089279) |
+| <img src="images/education/NotesIOE.webp" width="60"/> | **Notes IOE** | Engineering study app for IOE students with offline PDF saves, syllabus, questions, notes, and real-time notifications. | [Play Store](https://play.google.com/store/apps/details?id=com.notesioe.notesioe) <br> [App Store](https://apps.apple.com/us/app/notes-ioe/id6745201500?platform=iphone) |
 
 ## Finance And Banking
 
@@ -20,6 +21,7 @@ Whether you're a **developer looking for inspiration** or just curious about wha
 | <img src="images/finance-and-banking/nimb.webp" width="60"/> | **NIMB Smart Banking** | Mobile banking app for Nepal Investment Mega Bank customers | [Play Store](https://play.google.com/store/apps/details?id=com.f1soft.megafonebank.activities.starter) <br> [App Store](https://apps.apple.com/us/app/nimb-smart/id901814671) |
 | <img src="images/finance-and-banking/money-mitra.webp" width="60"/> | **Money Mitra** | All-in-one solution for personal finance management, stock analysis, financial planning, and soft skills courses. | [Play Store](https://play.google.com/store/apps/details?id=com.ideapreneurnepal.moneymitra) <br> [App Store](https://apps.apple.com/ne/app/money-mitra/id6446030380) |
 | <img src="images/finance-and-banking/sharehub.webp" width="60"/> | **Sharehub** | NEPSE portfolio app offering real-time market data, alerts, IPO tracking | [Play Store](https://play.google.com/store/apps/details?id=com.softshalanepal.sharehub) <br> [App Store](https://apps.apple.com/us/app/share-hub-nepse-information/id1567874669) |
+| <img src="images/finance-and-banking/NEPSE_Calendar.webp" width="60"/> | **NEPSE Calendar** | Market events tracker for NEPSE investors with upcoming IPOs, FPOs, Right Shares, Promoter Unlocks, and real-time market updates. | [Play Store](https://play.google.com/store/apps/details?id=com.nepse.calendar) <br> [App Store](https://apps.apple.com/us/app/nepse-calendar/id6746501702?platform=iphone) |
 
 
 ##  Government and Public Services
