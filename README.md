@@ -12,6 +12,7 @@ Whether you're a **developer looking for inspiration** or just curious about wha
 | <img src="images/education/nepal-quest.webp" width="60"/> | **Nepal Quest** | Comprehensive information on Nepal’s constitution, provinces, districts, municipalities, and general facts along with engaging map-based games. | [Play Store](https://play.google.com/store/apps/details?id=np.com.shrestharanjit.nepalquest) |
 | <img src="images/education/mero-school.webp" width="60"/> | **Mero School** | Online learning platform | [Play Store](https://play.google.com/store/apps/details?id=school.mero.lms) <br> [App Store](https://apps.apple.com/np/app/mero-school/id1581089279) |
 | <img src="images/education/NotesIOE.webp" width="60"/> | **Notes IOE** | Engineering study app for IOE students with offline PDF saves, syllabus, questions, notes, and real-time notifications. | [Play Store](https://play.google.com/store/apps/details?id=com.notesioe.notesioe) <br> [App Store](https://apps.apple.com/us/app/notes-ioe/id6745201500?platform=iphone) |
+| <img src="images/education/all-star.webp" width="60"/> | **AllStar EDU** | A school management software that provides all the necessary feature for the management of the school like student registration, exam routines, result / report card generation, attendance, class, subjects, fees management, teacher information , inventory , account and so much more | [Play Store](https://play.google.com/store/apps/details?id=com.allstar.ems) <br> [App Store](https://apps.apple.com/us/app/allstar-edu/id6748521205) |
 
 ## Finance And Banking
 
